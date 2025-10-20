@@ -13,7 +13,7 @@ Los datos utilizados para este análisis son precios históricos de acciones obt
 El archivo de entrada esperado en la carpeta `data/` (`stocks_data.xlsx`) contiene series de tiempo para múltiples activos en el periodo 2018-2023.
 
   * **Fuente Principal:** [Yahoo Finance](https://finance.yahoo.com/)
-  * **Referencia de Dataset Similar :
+  * **Referencia al Dataset:**
       * [Yahoo Finance Dataset (2018-2023) en Kaggle](https://www.kaggle.com/datasets/suruchiarora/yahoo-finance-dataset-2018-2023)
 
 <br>
