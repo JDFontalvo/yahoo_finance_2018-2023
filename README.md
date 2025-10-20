@@ -6,6 +6,18 @@ Este proyecto contiene un conjunto de scripts en **R** diseñados para realizar 
 
 <br>
 
+## 📁 Origen del Dataset
+
+Los datos utilizados para este análisis son precios históricos de acciones obtenidos de **Yahoo Finance**.
+
+El archivo de entrada esperado en la carpeta `data/` (`stocks_data.xlsx`) contiene series de tiempo para múltiples activos en el periodo 2018-2023.
+
+  * **Fuente Principal:** [Yahoo Finance](https://finance.yahoo.com/)
+  * **Referencia de Dataset Similar (Opcional):** Si el archivo original fue obtenido de una fuente pública para el periodo indicado, podría corresponder a un conjunto de datos como este (verifica si coincide con tu `.xlsx`):
+      * [Yahoo Finance Dataset (2018-2023) en Kaggle](https://www.kaggle.com/datasets/suruchiarora/yahoo-finance-dataset-2018-2023)
+
+<br>
+
 ## 📂 Estructura del Proyecto
 
 La estructura de directorios organiza el código, los datos y los resultados generados:
